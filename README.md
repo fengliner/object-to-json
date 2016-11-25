@@ -6,10 +6,6 @@ convert object to standard format json
 
   npm install object2json
 
-## TEST
-
-    npm run test
-
 ## DEMO
 
 ```js
