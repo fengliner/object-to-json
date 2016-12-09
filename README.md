@@ -2,6 +2,10 @@
 
 convert object to standard format json
 
+**Deprecated:**      
+*This package is no longer maintained.*       
+*Please use [format-json-pretty](https://www.npmjs.com/package/format-json-pretty) instead*
+
 ## INSTALL
 
   npm install object2json
